@@ -40,25 +40,25 @@ def Exclaim(t, size=1):
 def A():
 	return
 
-def B():
+def B(t, size=1):
 	return
 
-def C():
+def C(t, size=1):
 	return
 
-def D():
+def D(t, size=1):
 	return
 
-def E():
+def E(t, size=1):
 	return
 
-def F():
+def F(t, size=1):
 	return
 
-def G():
+def G(t, size=1):
 	return
 
-def H():
+def H(t, size=1):
 	return
 
 def I(t, size=1):
@@ -83,10 +83,10 @@ def I(t, size=1):
 	between_letters(t, size)
 	return
 
-def J():
+def J(t, size=1):
 	return
 
-def K():
+def K(t, size=1):
 	return
 
 def L(t, size=1):
@@ -101,74 +101,74 @@ def L(t, size=1):
 	between_letters(t, size)
 	return
 
-def M():
+def M(t, size=1):
 	return
 
-def N():
+def N(t, size=1):
 	return
 
-def O():
+def O(t, size=1):
 	return
 
-def P():
+def P(t, size=1):
 	return
 
-def Q():
+def Q(t, size=1):
 	return
 
-def R():
+def R(t, size=1):
 	return
 
-def S():
+def S(t, size=1):
 	return
 
-def T():
+def T(t, size=1):
 	return
 
-def U():
+def U(t, size=1):
 	return
 
-def V():
+def V(t, size=1):
 	return
 
-def W():
+def W(t, size=1):
 	return
 
-def X():
+def X(t, size=1):
 	return
 
-def Y():
+def Y(t, size=1):
 	return
 
-def Z():
+def Z(t, size=1):
 	return
 
-def Zero():
+def Zero(t, size=1):
 	return
 
-def One():
+def One(t, size=1):
 	return
 
-def Two():
+def Two(t, size=1):
 	return
 
-def Three():
+def Three(t, size=1):
 	return
 
-def Four():
+def Four(t, size=1):
 	return
 
-def Five():
+def Five(t, size=1):
 	return
 
-def Six():
+def Six(t, size=1):
 	return
 
-def Seven():
+def Seven(t, size=1):
 	return
 
-def Eight():
+def Eight(t, size=1):
 	return
 
-def Nine():
+def Nine(t, size=1):
 	return
