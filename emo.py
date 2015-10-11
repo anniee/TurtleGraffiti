@@ -1,7 +1,7 @@
-#This file is for emojis. Import emo.py then emo.eggplant(turtle_name) to try it out!
+#This file is for emojis. Import emo.py then emo.Eggplant(turtle_name) to try it out!
 
 def Eggplant(t):
-	
+
 	t.color("purple")
 	t.fill(True)
 	t.forward(30)
@@ -35,7 +35,7 @@ def Eggplant(t):
 			t.right(320)
 			t.forward(20)
 			t.fill(False)
-		else: 
+		else:
 			t.pu()
 			t.forward(20)
 			t.left(160)
